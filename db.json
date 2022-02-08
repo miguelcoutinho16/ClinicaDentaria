@@ -1,0 +1,23 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "full_name": "Miguel Coutinho",
+      "username": "miguel",
+      "password": "admin",
+      "email": "20311@stu.ipbeja.pt",
+      "phone": "925873492",
+      "NIF": "27282727277",
+      "Seguro": "Multicare",
+      "ADSE": "",
+      "user_type": "1"
+    }
+    
+  ],
+  "Treatment": [
+      {
+        "id": 1,
+        "treatment_type": "Extração",
+        "time": "60",
+      }
+    }
