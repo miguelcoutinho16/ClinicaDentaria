@@ -1,43 +1,6 @@
 {
   "User": [
-    {
-      "id": 1,
-      "full_name": "Miguel Coutinho",
-      "username": "miguel",
-      "password": "admin",
-      "email": "20311@stu.ipbeja.pt",
-      "phone": "925873492",
-      "NIF": "27282727277",
-      "Seguro": "Multicare",
-      "ADSE": "",
-      "user_type": "1"
-    },
-    
-    {
-      "id": 2,
-      "full_name": "Administrador",
-      "username": "admin",
-      "password": "123",
-      "email": "admin@clinicapazinatto.pt",
-      "phone": "000000000",
-      "NIF": "000000000",
-      "Seguro": "000000000",
-      "ADSE": "000000000",
-      "user_type": "1"
-    },
-    
-    {
-      "id": 3,
-      "full_name": "Usuário",
-      "username": "user",
-      "password": "user",
-      "email": "user@gmail.com",
-      "phone": "987456213",
-      "NIF": "654067432",
-      "Seguro": "AdvanceCare",
-      "ADSE": "000000000",
-      "user_type": "2"
-    }
+
     
     
     
