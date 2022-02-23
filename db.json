@@ -59,6 +59,12 @@
         "id": 1,
         "username": "miguel",
         "date": "January 1, 2021, 12:30:00 GMT"
+      },
+          
+      {
+        "id": 3,
+        "username": "user",
+        "date": "January 2, 2021, 12:30:00 GMT"
       }
     ]
 }
