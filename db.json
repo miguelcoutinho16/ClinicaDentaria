@@ -47,6 +47,14 @@
         "treatment_type": "Extração",
         "time": "60"
       }
+    ],
+  
+  "Appointment": [
+      {
+        "id": 1,
+        "username": "miguel",
+        "date": "January 1, 2021, 12:30:00 GMT"
+      }
     ]
 }
  
