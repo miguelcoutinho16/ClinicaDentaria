@@ -37,15 +37,20 @@
       "Seguro": "AdvanceCare",
       "ADSE": "000000000",
       "user_type": "2"
-    }
-    
-    
+    } 
   ],
+  
   "Treatment": [
       {
         "id": 1,
         "treatment_type": "Extração",
         "time": "60"
+      },
+    
+      {
+        "id": 2,
+        "treatment_type": "Desvitalização",
+        "time": "120"
       }
     ],
   
