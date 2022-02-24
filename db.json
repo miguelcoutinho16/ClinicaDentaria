@@ -58,13 +58,15 @@
       {
         "id": 1,
         "username": "miguel",
-        "date": "January 1, 2021, 12:30:00 GMT"
+        "date_time": "11:15 - 12:00",
+        "date_day":"1-1-2022"
       },
          
       {
         "id": 3,
         "username": "user",
-        "date": "January 2, 2021, 12:30:00 GMT"
+        "date_time": "15:15 - 16:00",
+        "date_day":"2-1-2022"
       }
     ]
 }
